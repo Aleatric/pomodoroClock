@@ -1,0 +1,45 @@
+.spin-and-zoom {
+  animation: spin-and-zoom 4s linear;
+  position: fixed;
+  bottom: 0;
+  z-index: 100;
+}
+
+.lobster-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 5;
+  pointer-events: none;
+}
+
+.lobster-container img {
+  pointer-events: none;
+  padding-bottom: 3em;
+}
+
+
+@keyframes spin-and-zoom {
+  0% {
+      transform: translateY(100vh) rotate(0deg) scale(0);
+      opacity: 1;
+  }
+  50% {
+      transform: translateY(0) rotate(360deg) scale(1);
+      opacity: 1;
+  }
+  60% {
+      transform: translateY(0) rotate(360deg) scale(1);
+      opacity: 1;
+  }
+  100% {
+      transform: translateY(-100vh) rotate(720deg) scale(0);
+      opacity: 0;
+  }
+}
+
