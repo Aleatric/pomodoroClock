@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.baaf2257.css",
+    "main.js": "/static/js/main.14ede76a.js",
+    "static/js/787.30cd3fe9.chunk.js": "/static/js/787.30cd3fe9.chunk.js",
+    "static/media/blue-lobster.wav": "/static/media/blue-lobster.6fb95097e381e019d2aa.wav",
+    "static/media/blue-lobster.jpg": "/static/media/blue-lobster.19b8649680ca6bb3930f.jpg",
+    "index.html": "/index.html",
+    "main.baaf2257.css.map": "/static/css/main.baaf2257.css.map",
+    "main.14ede76a.js.map": "/static/js/main.14ede76a.js.map",
+    "787.30cd3fe9.chunk.js.map": "/static/js/787.30cd3fe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baaf2257.css",
+    "static/js/main.14ede76a.js"
+  ]
+}
