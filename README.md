@@ -1,70 +1,21 @@
-# Getting Started with Create React App
+# Pomodoro Clock
+The Pomodoro Clock is a productivity tool that helps you manage your time using the Pomodoro Technique. It incorporates a unique twist by surprising you with a Blue Lobster jumpscare when the timer ends. The jumpscare is accompanied by a high-pitched ear rape version of Bach's "Toccata and Fugue in D minor".
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Features
+- Pomodoro Timer: The clock provides separate controls for setting the session length and break length.
+- Start and Pause: You can start and pause the timer to manage your work and break intervals.
+- Reset: The clock can be reset to its initial state, allowing you to start a new Pomodoro session.
+- Blue Lobster Jumpscare: When the timer ends, a Blue Lobster image appears on the screen, accompanied by the tune, creating a surprise element.
 
-## Available Scripts
+## Technologies Used
+- React
+- Bootsrap: The clock's layout and styling are implemented using Bootstrap
+- CSS Animation: the spinning and zooming effect of the Blue Lobster image is achieved using CSS animation.
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Usage
+- Set the session length and break length using the provided controls.
+- Click the "Start" button to begin the Pomodoro timer.
+- Work on your tasks during the session time and take a break during the break time.
+- When the timer ends, the Blue Lobster jumpscare and accompanying tune will play.
+- Click the "Pause" button to pause the timer if needed.
+- Click the "Reset" button to restart the Pomodoro Clock and set a new session.
