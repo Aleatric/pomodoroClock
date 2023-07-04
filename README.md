@@ -5,7 +5,7 @@ The Pomodoro Clock is a productivity tool that helps you manage your time using 
 - Pomodoro Timer: The clock provides separate controls for setting the session length and break length.
 - Start and Pause: You can start and pause the timer to manage your work and break intervals.
 - Reset: The clock can be reset to its initial state, allowing you to start a new Pomodoro session.
-- Blue Lobster Jumpscare: When the timer ends, a Blue Lobster image appears on the screen, accompanied by the tune, creating a surprise element.
+- Blue Lobster Jumpscare: When the timer ends, a Blue Lobster image appears on the screen, accompanied by the tune.
 
 ## Technologies Used
 - React
