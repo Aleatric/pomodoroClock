@@ -1,5 +1,5 @@
 # Pomodoro Clock
-The Pomodoro Clock is a productivity tool that helps you manage your time using the Pomodoro Technique. It incorporates a unique twist by surprising you with a Blue Lobster jumpscare when the timer ends. The jumpscare is accompanied by a high-pitched ear rape version of Bach's "Toccata and Fugue in D minor".
+The Pomodoro Clock is a productivity tool that helps you manage your time using the Pomodoro Technique. It incorporates a unique twist by surprising you with a Blue Lobster jumpscare when the timer ends. The jumpscare is accompanied by a deafening version of Bach's "Toccata and Fugue in D minor".
 
 ## Features
 - Pomodoro Timer: The clock provides separate controls for setting the session length and break length.
